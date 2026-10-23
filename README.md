@@ -23,3 +23,4 @@ I will add my notes, commands, and lessons here as I learn.
 
 ## My Goal
 To build strong cybersecurity skills step by step.
+Improve cybersecurity learning README
